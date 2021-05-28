@@ -1,19 +1,19 @@
-# i
+#  
   # ReadMeGenerator
 
 
-  # i
+  #  
   
-  ## Github user name is l
+  ## Github user name is m
   
-  ## the user email is  o
+  ## the user email is  ,
    
   ### installation guide
-  - k
+  - h
   - npm i
 
-  ## the user is requesting use of the EPL-1.0 license
-  ## [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+  ## the user is requesting use of the Boost license
+  ## [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://opensource.org/licenses/Boost-2.0)
 
 
 
