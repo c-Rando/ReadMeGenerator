@@ -1,19 +1,19 @@
-# k
+# i
   # ReadMeGenerator
 
 
-  # k
+  # i
   
-  ## Github user name is v
+  ## Github user name is l
   
-  ## the user email is  n
+  ## the user email is  o
    
   ### installation guide
-  - j
+  - k
   - npm i
 
-  ## the user is requesting use of the Apache license
-  ## [![License](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache)
+  ## the user is requesting use of the EPL-1.0 license
+  ## [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
 
 
