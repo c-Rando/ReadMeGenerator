@@ -10,7 +10,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) { 
   if (license !== "none") {
-    return `[![License](https://img.shields.io/badge/License-${license}-yellow.svg)](https://opensource.org/licenses/${data.license})`;
+    return `[![License](https://img.shields.io/badge/License-${license}-yellow.svg)](https://opensource.org/licenses/${license})`;
   } else {
     return "";
   }
@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   - npm i
 
   ## the user is requesting use of the ${data.license} license
-  ## ${renderLicenseSection()}
+  ## ${renderLicenseSection(data.license)}
 
 
 
