@@ -1,19 +1,19 @@
-# m
+# k
   # ReadMeGenerator
 
 
-  # m
+  # k
   
-  ## Github user name is c 
+  ## Github user name is v
   
   ## the user email is  n
    
   ### installation guide
-  - m
+  - j
   - npm i
 
-  ## the user is requesting use of the GPLv3 license
-  ## [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  ## the user is requesting use of the Apache license
+  ## [![License](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache)
 
 
 
