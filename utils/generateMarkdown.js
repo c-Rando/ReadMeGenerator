@@ -10,7 +10,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) { 
   if (license !== "none") {
-    return `[![License](https://img.shields.io/badge/License-${data.license}-yellow.svg)](https://opensource.org/licenses/${data.license})`;
+    return `[![License](https://img.shields.io/badge/License-${license}-yellow.svg)](https://opensource.org/licenses/${data.license})`;
   } else {
     return "";
   }
@@ -20,7 +20,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) { 
   if (license == "mit" || "MIT") {
-    return `[![License](https://img.shields.io/badge/License-${data.license}-yellow.svg)](https://opensource.org/licenses/${data.license})`;
+    return `[![License](https://img.shields.io/badge/License-${license}-yellow.svg)](https://opensource.org/licenses/${license})`;
   } else {
     return "";
   }

@@ -1,15 +1,15 @@
-# d
+#  readme
   # ReadMeGenerator
 
 
-  # d
+  #  readme
   
-  ## Github user name is chtis
+  ## Github user name is crando
   
-  ## the user email is  a
+  ## the user email is  crando@gmail.com
    
   ### installation guide
-  - npmi
+  - asd
   - npm i
 
   ## the user is requesting use of the mit license
