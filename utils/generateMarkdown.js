@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   - ${data.runcmd}
   - npm i
 
-  ## the user is requesting use of the  ${data.license}
+  ## the user is requesting use of the ${data.license} license
 
 
 

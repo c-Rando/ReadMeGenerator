@@ -1,18 +1,18 @@
-# c
+# d
   # ReadMeGenerator
 
 
-  # c
+  # d
   
-  ## Github user name is a
+  ## Github user name is chtis
   
-  ## the user email is  b
+  ## the user email is  a
    
   ### installation guide
-  - d
+  - npmi
   - npm i
 
-  ## the user email is  mit
+  ## the user is requesting use of the mit license
 
 
 
