@@ -43,6 +43,7 @@ function generateMarkdown(data) {
   - npm i
 
   ## the user is requesting use of the ${data.license} license
+  ## ${renderLicenseSection()}
 
 
 
