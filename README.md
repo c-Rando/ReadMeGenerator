@@ -1,19 +1,19 @@
-# readmeGenerator
+# read
   # ReadMeGenerator
 
 
-  # readmeGenerator
+  # read
   
   ## Github user name is c-rando
   
-  ## the user email is  crando@gmail.com
+  ## the user email is  crando@gm
    
   ### installation guide
-  - npm i
+  - npmi
   - npm i
 
-  ## the user is requesting use of the mit license
-  ## [![License](https://img.shields.io/badge/License-mit-yellow.svg)](https://opensource.org/licenses/mit)
+  ## the user is requesting use of the apache license
+  ## [![License](https://img.shields.io/badge/License-apache-yellow.svg)](https://opensource.org/licenses/apache)
 
 
 
