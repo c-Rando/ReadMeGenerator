@@ -37,26 +37,56 @@ function renderLicenseSection(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  # ReadMeGenerator
+  # ReadMeGenerator by Chris Rando 
 
 
-  # ${data.title}
+  # ${data.title} 
   
-  ## Github user name is ${data.github}
+  ## description
+  ## A brief mission statement of my application is:  \n${description}
+  \n## Table of Contents:
+    * Links
+    * Installation Requirements
+    * Demo
+    * Licensing & author info
+
+
+  ## My github username is: ${data.github}
   
-  ## the user email is  ${data.email}
+  ## A good email address to contact me at is:  ${data.email}
    
   ### installation guide
   - ${data.runcmd}
-  - npm i
+  - We recommend that you run this block to handle requirements. You can copy and paste this into your terminal to handle to the download. 
 
-  ## the user is requesting use of the ${data.license} license
-  ## ${renderLicenseSection(data.license)}
+     ${installation}
+  \n-npm init -y
+    once completed, and you have received your jSON packages, then run the following block:
+  \n-npm i (this will install any dependencies required to run this program).
+   ${tests} ${usage}
 
+  
+  
+  
 
 
   ## Application functionality demo
-`;
+  ### PLACEHOLDER 
+
+  
+  ###License
+  ## I plan to use my app in conjunction with the following licensing:
+  \n${renderLicenseSection(data.license)}
+
+  ###Contributions
+  This project was worked in conjunction with the following content developers: ${contributors}
+  ###Tests
+  
+  ###Usage
+  
+  ###Questions 
+
+  `;
 }
 
 module.exports = generateMarkdown;
