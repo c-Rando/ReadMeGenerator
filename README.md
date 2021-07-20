@@ -1,20 +1,56 @@
-#  
-  # ReadMeGenerator
+# s
+  # ReadMeGenerator by Chris Rando 
 
 
-  #  
+  # s 
   
-  ## Github user name is m
+  ## description
+  ## A brief mission statement of my application is:  
+s
   
-  ## the user email is  ,
+## Table of Contents:
+    * Links
+    * Installation Requirements
+    * Demo
+    * Licensing & author info
+
+
+  ## My github username is: s
+  
+  ## A good email address to contact me at is:  ss
    
   ### installation guide
-  - h
-  - npm i
+  - s
+  - We recommend that you run this block to handle requirements. You can copy and paste this into your terminal to handle to the download. 
 
-  ## the user is requesting use of the Boost license
-  ## [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://opensource.org/licenses/Boost-2.0)
+     ss
+  
+-npm init -y
+    once completed, and you have received your jSON packages, then run the following block:
+  
+-npm i (this will install any dependencies required to run this program).
+   sss s
 
+  
+  
+  
 
 
   ## Application functionality demo
+  ### PLACEHOLDER 
+
+  
+  ###License
+  ## I plan to use my app in conjunction with the following licensing:
+  
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ###Contributions
+  This project was worked in conjunction with the following content developers: sss
+  ###Tests
+  
+  ###Usage
+  
+  ###Questions 
+
+  

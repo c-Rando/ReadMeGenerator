@@ -48,7 +48,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage', //8
-        message: "how do you plan to use your app How may it be integrated into other technologies?"
+        message: "How may it be integrated into other technologies?"
     },
     {
         type: 'input',
@@ -58,7 +58,7 @@ const questions = [
     { 
         type: 'input',
         name: 'contributors', //10
-        message: "are there any contributors to your success?"
+        message: "Are there any contributors to your success?"
     },
 
 ];

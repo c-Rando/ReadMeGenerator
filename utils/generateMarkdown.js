@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   # ${data.title} 
   
   ## description
-  ## A brief mission statement of my application is:  \n${description}
+  ## A brief mission statement of my application is:  \n${data.description}
   \n## Table of Contents:
     * Links
     * Installation Requirements
@@ -59,11 +59,11 @@ function generateMarkdown(data) {
   - ${data.runcmd}
   - We recommend that you run this block to handle requirements. You can copy and paste this into your terminal to handle to the download. 
 
-     ${installation}
+     ${data.installation}
   \n-npm init -y
     once completed, and you have received your jSON packages, then run the following block:
   \n-npm i (this will install any dependencies required to run this program).
-   ${tests} ${usage}
+   ${data.tests} ${data.usage}
 
   
   
@@ -74,17 +74,18 @@ function generateMarkdown(data) {
   ### PLACEHOLDER 
 
   
-  ###License
+  ### License
   ## I plan to use my app in conjunction with the following licensing:
   \n${renderLicenseSection(data.license)}
 
-  ###Contributions
-  This project was worked in conjunction with the following content developers: ${contributors}
-  ###Tests
+  ### Contributions
+  This project was worked in conjunction with the following content developers: ${data.contributors}
+
+  ### Tests
   
-  ###Usage
+  ### Usage
   
-  ###Questions 
+  ### Questions 
 
   `;
 }
